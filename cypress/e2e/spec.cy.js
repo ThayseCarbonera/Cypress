@@ -1,9 +1,6 @@
 /// <reference types="cypress" />
 
 
-const beta = false;
-
-
 describe('teste cypress', () => {
 
     beforeEach(()=>{
